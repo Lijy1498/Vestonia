@@ -23,11 +23,11 @@ int shop()
 {
     char item;
     int iin;//integer input
-    int n=1;
+    bool shopping = true;
 
     srand(time(NULL)); //Create random number generator seed
 
-    while (n==1)
+    while (shopping)
     {
         cout << "Welcome to the shop!" << endl;
         cout << "Money = $" << money << endl;
@@ -151,7 +151,7 @@ int shop()
             break;
         case 'x':
             cout<<"Thank you, come again!"<<endl;
-            n=2;
+            shopping = false;
             break;
         }
     }
