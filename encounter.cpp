@@ -9,7 +9,7 @@ int encounter()
 {
     int f,g;
     clrScreen();
-    cout<<"PIRATES!!!!"<<endl;
+    cout<<"PIRATES!!"<<endl;
     cin>>f;
     clear();
     return 0;
