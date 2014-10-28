@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1413939433 source:c:\users\lijy\desktop\new folder\game\combat.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1413939433 source:c:\users\lijy\desktop\new folder\game\encounter.cpp
+	<iostream>
+
+1413939433 source:c:\users\lijy\desktop\new folder\game\intro.cpp
+	<iostream>
+
+1413939433 source:c:\users\lijy\desktop\new folder\game\lichencounter.cpp
+	<iostream>
+
+1413941439 source:c:\users\lijy\desktop\new folder\game\main.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<conio.h>
+	<windows.h>
+	<stdio.h>
+
+1413939433 source:c:\users\lijy\desktop\new folder\game\map.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1413939433 source:c:\users\lijy\desktop\new folder\game\menu.cpp
+	<iostream>
+
+1413939433 source:c:\users\lijy\desktop\new folder\game\shop.cpp
+	<iostream>
+
